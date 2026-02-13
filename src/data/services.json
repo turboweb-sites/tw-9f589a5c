@@ -1,0 +1,149 @@
+[
+  {
+    "id": "mobile-exterior-detail",
+    "slug": "/services/mobile-exterior-detail",
+    "title": "Mobile Exterior Detail",
+    "shortTitle": "Exterior Detail",
+    "icon": "sparkles",
+    "description": "Complete exterior wash, clay bar treatment, polish, and sealant. Your car's paint will shine like the day it left the showroom.",
+    "priceFrom": 89,
+    "duration": "1.5–2 hours",
+    "popular": false,
+    "includes": [
+      "Hand wash with pH-balanced soap",
+      "Clay bar decontamination",
+      "Wheel & tire deep clean",
+      "Tire dressing",
+      "Trim restoration",
+      "Paint sealant application",
+      "Streak-free window cleaning",
+      "Door jambs cleaned"
+    ]
+  },
+  {
+    "id": "interior-detail",
+    "slug": "/services/interior-detail",
+    "title": "Interior Deep Clean",
+    "shortTitle": "Interior Detail",
+    "icon": "armchair",
+    "description": "Deep cleaning of every surface inside your vehicle — seats, carpets, dashboard, and more. Eliminates odors and allergens.",
+    "priceFrom": 109,
+    "duration": "2–3 hours",
+    "popular": false,
+    "includes": [
+      "Full vacuum (seats, carpets, trunk)",
+      "Steam cleaning all surfaces",
+      "Leather conditioning / fabric shampooing",
+      "Dashboard & console deep clean",
+      "Air vent detailing",
+      "Door panel cleaning",
+      "Interior glass cleaning",
+      "Odor elimination treatment"
+    ]
+  },
+  {
+    "id": "full-detail",
+    "slug": "/services/full-detail",
+    "title": "Full Detail Package",
+    "shortTitle": "Full Detail",
+    "icon": "car",
+    "description": "The complete package: full interior deep clean plus premium exterior detail. The most popular choice for a total transformation.",
+    "priceFrom": 179,
+    "duration": "3–5 hours",
+    "popular": true,
+    "includes": [
+      "Everything in Exterior Detail",
+      "Everything in Interior Detail",
+      "Engine bay rinse & dressing",
+      "Headlight restoration (light)",
+      "Paint sealant (6-month protection)",
+      "Tire & wheel protection",
+      "Interior UV protection",
+      "Air freshener included"
+    ]
+  },
+  {
+    "id": "paint-correction",
+    "slug": "/services/paint-correction",
+    "title": "Paint Correction",
+    "shortTitle": "Paint Correction",
+    "icon": "paintbrush",
+    "description": "Remove swirl marks, scratches, oxidation, and water spots. Restore your paint to a mirror-like finish with professional polishing.",
+    "priceFrom": 299,
+    "duration": "4–8 hours",
+    "popular": false,
+    "includes": [
+      "Full decontamination wash",
+      "Clay bar treatment",
+      "1-step or 2-step machine polish",
+      "Swirl mark removal",
+      "Scratch removal (within clear coat)",
+      "Oxidation removal",
+      "Water spot removal",
+      "Paint sealant or coating prep"
+    ]
+  },
+  {
+    "id": "ceramic-coating",
+    "slug": "/services/ceramic-coating",
+    "title": "Ceramic / Graphene Coating",
+    "shortTitle": "Ceramic Coating",
+    "icon": "shield",
+    "description": "Long-lasting paint protection that repels water, dirt, and UV damage. Includes full paint correction before application.",
+    "priceFrom": 599,
+    "duration": "1–2 days",
+    "popular": false,
+    "includes": [
+      "Full paint correction included",
+      "Surface decontamination",
+      "IPA wipedown",
+      "Professional ceramic/graphene coating",
+      "2–5 year protection",
+      "Hydrophobic water beading",
+      "UV & chemical resistance",
+      "Easier maintenance washes"
+    ]
+  },
+  {
+    "id": "rv-detailing",
+    "slug": "/services/rv-detailing",
+    "title": "RV & Large Vehicle Detailing",
+    "shortTitle": "RV Detailing",
+    "icon": "bus",
+    "description": "Specialized detailing for RVs, motorhomes, and large vehicles. We handle Class A, B, C, and travel trailers.",
+    "priceFrom": 299,
+    "duration": "4–8 hours",
+    "popular": false,
+    "includes": [
+      "Full exterior wash & decontamination",
+      "Roof cleaning",
+      "Oxidation removal",
+      "Awning cleaning",
+      "Wheel & tire detail",
+      "Wax or sealant application",
+      "Interior deep clean (optional add-on)",
+      "Black streak removal"
+    ]
+  },
+  {
+    "id": "marine-detailing",
+    "slug": "/services/marine-detailing",
+    "title": "Marine / Boat Detailing",
+    "shortTitle": "Marine Detailing",
+    "icon": "anchor",
+    "description": "Professional boat detailing including gel coat restoration, hull cleaning, and interior detailing. Keep your vessel looking pristine.",
+    "priceFrom": 249,
+    "duration": "3–6 hours",
+    "popular": false,
+    "includes": [
+      "Hull wash & decontamination",
+      "Gel coat polishing",
+      "Oxidation removal",
+      "Metal & chrome polishing",
+      "Vinyl & upholstery cleaning",
+      "Non-skid deck cleaning",
+      "UV protectant application",
+      "Canvas & cover cleaning"
+    ]
+  }
+]

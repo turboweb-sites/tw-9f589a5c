@@ -1,0 +1,60 @@
+{
+  "packages": [
+    {
+      "id": "exterior",
+      "name": "Exterior Detail",
+      "priceFrom": 89,
+      "popular": false,
+      "features": [
+        "Hand wash with pH-balanced soap",
+        "Clay bar decontamination",
+        "Wheel & tire deep clean",
+        "Tire dressing & trim restore",
+        "Paint sealant application",
+        "Window cleaning (exterior)",
+        "Door jambs cleaned"
+      ]
+    },
+    {
+      "id": "full",
+      "name": "Full Detail",
+      "priceFrom": 179,
+      "popular": true,
+      "features": [
+        "Everything in Exterior Detail",
+        "Full interior vacuum & steam clean",
+        "Leather conditioning / fabric shampoo",
+        "Dashboard & console detail",
+        "Interior glass cleaning",
+        "Odor elimination",
+        "Engine bay rinse & dressing",
+        "Air freshener included"
+      ]
+    },
+    {
+      "id": "ceramic",
+      "name": "Ceramic Coating",
+      "priceFrom": 599,
+      "popular": false,
+      "features": [
+        "Full paint correction included",
+        "Surface decontamination & IPA wipe",
+        "Professional ceramic coating",
+        "2–5 year paint protection",
+        "Hydrophobic water beading",
+        "UV & chemical resistance",
+        "Maintenance wash guide",
+        "Coating warranty included"
+      ]
+    }
+  ],
+  "addOns": [
+    { "name": "Pet Hair Removal", "price": 30 },
+    { "name": "Headlight Restoration", "price": 45 },
+    { "name": "Engine Bay Detail", "price": 40 },
+    { "name": "Odor Bomb Treatment", "price": 25 },
+    { "name": "Scratch Touch-Up", "price": 35 },
+    { "name": "Windshield Coating", "price": 50 }
+  ],
+  "note": "Prices are starting estimates for standard-size sedans. SUVs, trucks, and larger vehicles may be priced higher. Final pricing is confirmed after vehicle inspection. Text us photos for an accurate quote."
+}

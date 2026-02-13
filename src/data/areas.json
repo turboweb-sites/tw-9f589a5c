@@ -1,0 +1,34 @@
+{
+  "primaryCity": "Las Vegas",
+  "state": "Nevada",
+  "address": "521 Bernini St, Las Vegas, NV 89144",
+  "phone": "(702) 888-0867",
+  "email": "info@lvmobiledetailing.com",
+  "areas": [
+    { "name": "Las Vegas (Central)", "zip": ["89101", "89102", "89104", "89106", "89107"] },
+    { "name": "Summerlin", "zip": ["89134", "89135", "89138", "89144", "89145"] },
+    { "name": "Henderson", "zip": ["89002", "89011", "89012", "89014", "89015", "89052", "89074"] },
+    { "name": "North Las Vegas", "zip": ["89030", "89031", "89032", "89033", "89081", "89084", "89085", "89086"] },
+    { "name": "Green Valley", "zip": ["89012", "89014", "89052", "89074"] },
+    { "name": "Spring Valley", "zip": ["89113", "89117", "89118", "89147", "89148"] },
+    { "name": "Enterprise", "zip": ["89113", "89139", "89141", "89178", "89183"] },
+    { "name": "Whitney", "zip": ["89014", "89015", "89122"] },
+    { "name": "Centennial Hills", "zip": ["89131", "89143", "89149"] },
+    { "name": "Mountains Edge", "zip": ["89141", "89148", "89178"] },
+    { "name": "Aliante", "zip": ["89084", "89085"] },
+    { "name": "Rhodes Ranch", "zip": ["89148"] }
+  ],
+  "mapCenter": {
+    "lat": 36.1699,
+    "lng": -115.1398
+  },
+  "businessHours": {
+    "monday": "7:00 AM - 7:00 PM",
+    "tuesday": "7:00 AM - 7:00 PM",
+    "wednesday": "7:00 AM - 7:00 PM",
+    "thursday": "7:00 AM - 7:00 PM",
+    "friday": "7:00 AM - 7:00 PM",
+    "saturday": "8:00 AM - 6:00 PM",
+    "sunday": "8:00 AM - 5:00 PM"
+  }
+}

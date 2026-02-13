@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "question": "How does mobile detailing work?",
+    "answer": "We come to you! Whether you're at home, work, or anywhere in the Las Vegas area, we bring all equipment, water, and power. Just tell us where to meet and we handle the rest. No need to drop off your car anywhere."
+  },
+  {
+    "id": "2",
+    "question": "How long does a detail take?",
+    "answer": "It depends on the service: Exterior details take 1.5–2 hours, interior details 2–3 hours, full details 3–5 hours, and ceramic coatings 1–2 days. We never rush — quality takes time."
+  },
+  {
+    "id": "3",
+    "question": "Do you need water or electricity from me?",
+    "answer": "Nope! We bring our own water supply (100+ gallons), generator, and all equipment. You don't need to provide anything. Just point us to your vehicle and relax."
+  },
+  {
+    "id": "4",
+    "question": "What areas do you serve?",
+    "answer": "We serve the entire Las Vegas metro area including Summerlin, Henderson, North Las Vegas, Green Valley, Spring Valley, Enterprise, Centennial Hills, Mountains Edge, Aliante, and Rhodes Ranch. If you're within 30 miles, we'll be there."
+  },
+  {
+    "id": "5",
+    "question": "How do I get an accurate quote?",
+    "answer": "The fastest way is to text us at (702) 888-0867 with a few photos of your vehicle (inside and out) and your location. We'll send back a firm quote within minutes. You can also call or fill out our contact form."
+  },
+  {
+    "id": "6",
+    "question": "What products do you use?",
+    "answer": "We use only professional-grade, pH-balanced products that are safe for all paint types including matte finishes, PPF (paint protection film), and vinyl wraps. Our ceramic coatings are professional products not available at retail stores."
+  },
+  {
+    "id": "7",
+    "question": "Do you offer any guarantees?",
+    "answer": "Yes! We offer a 24-hour satisfaction guarantee. If you notice anything we missed or aren't 100% happy with, contact us within 24 hours and we'll come back to fix it — no questions asked, no extra charge."
+  },
+  {
+    "id": "8",
+    "question": "How often should I get my car detailed?",
+    "answer": "We recommend a full detail every 3–4 months, with maintenance washes in between. If you have a ceramic coating, you'll need less frequent deep cleans. We can set up a recurring schedule with a loyalty discount."
+  },
+  {
+    "id": "9",
+    "question": "Can you remove scratches?",
+    "answer": "We can remove most surface-level scratches, swirl marks, and light marring through paint correction (machine polishing). Deep scratches that go through the clear coat may require touch-up paint, which we can also help with."
+  },
+  {
+    "id": "10",
+    "question": "Do you detail RVs and boats?",
+    "answer": "Absolutely! We specialize in RV detailing (Class A, B, C, and travel trailers) and marine/boat detailing. Pricing varies based on size and condition — text us photos for a quote."
+  }
+]

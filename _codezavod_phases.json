@@ -1,0 +1,29 @@
+{
+  "phases": [
+    {
+      "id": 1,
+      "title": "Каркас проекта и базовая структура",
+      "description": "Инициализация Next.js 14 (App Router) + TypeScript + Tailwind CSS. Настройка конфигов (next.config.js, tailwind.config, tsconfig, ESLint). Создание базового layout (Header с навигацией, Footer с NAP-данными: 521 Bernini St, Las Vegas, NV 89144, (702) 888-0867). Роутинг всех страниц по карте сайта: главная (/), услуги (/services), отдельные SEO-страницы услуг (/services/mobile-exterior-detail, /services/interior-detail, /services/full-detail, /services/paint-correction, /services/ceramic-coating, /services/rv-detailing, /services/marine-detailing), прайс (/pricing), галерея (/gallery), отзывы (/reviews), о нас (/about), контакты (/contact), FAQ (/faq). Страницы-заглушки с правильными Title/Description. Мобильное меню (бургер). Sticky-кнопки Call/Text внизу на мобиле. Настройка WebP-оптимизации изображений, lazy-load через next/image. Подключение шрифтов (next/font). Базовая цветовая схема «премиум-чисто» (тёмный + белый + акцент). JSON-файлы данных (services.json, pricing.json, reviews.json, faq.json, areas.json) как простая CMS-замена для владельца.",
+      "status": "done"
+    },
+    {
+      "id": 2,
+      "title": "Главная страница — все блоки и UI-компоненты",
+      "description": "Полная реализация Landing Page со всеми обязательными блоками: 1) Hero-блок с заголовком «Mobile Auto Detailing in Las Vegas», подзаголовком, двумя CTA-кнопками (Call Now, Get a Quote), микро-доверие (рейтинг 4.9, 80+ отзывов, Family-owned, We come to you). 2) Секция пакетов услуг — 3–6 карточек с названием, буллетами «что включено», ценой «from $…», кнопкой Get Quote. 3) Секция «Почему мы» — 3–6 иконочных преимуществ. 4) Галерея до/после — слайдер/плитка с компонентом сравнения изображений. 5) Блок отзывов — карусель 6–10 лучших + кнопка Read more. 6) «Как это работает» — 4 шага с иконками. 7) Зона обслуживания — Google Maps embed + список районов/ZIP (Las Vegas, Summerlin, Henderson и др.). 8) Финальный CTA-блок «Text us your car + location + photos». Все компоненты адаптивны (360px–1920px), переиспользуемы для внутренних страниц.",
+      "status": "done"
+    },
+    {
+      "id": 3,
+      "title": "Внутренние страницы, формы и функционал лидогенерации",
+      "description": "Реализация всех внутренних страниц с уникальным контентом: 7 SEO-страниц услуг (каждая с Hero, описанием, ценами, CTA, FAQ по услуге), страница Pricing (таблица/карточки пакетов с «от …»), Gallery (фильтрация по типам работ, lightbox), Reviews (полный список + кнопка «Leave a review» → Google), About (история, подход, гарантии), Contact (форма + карта + зона обслуживания), FAQ (аккордеон). Форма заявки: имя, телефон, email (опц.), адрес/ZIP, тип авто, услуга (dropdown), комментарий, загрузка 1–3 фото. Серверный API-роут (/api/contact) для обработки формы с отправкой email (Resend/Nodemailer) + автоответ клиенту. Защита формы через Cloudflare Turnstile. Интеграция: Google Maps embed, кнопка Instagram (лёгкая, без тяжёлого виджета).",
+      "status": "done"
+    },
+    {
+      "id": 4,
+      "title": "SEO, Schema-разметка, аналитика, оптимизация и финализация",
+      "description": "SEO-финализация: уникальные meta title/description на каждой странице, Open Graph теги, canonical URL, sitemap.xml, robots.txt. Структурированные данные: LocalBusiness schema (NAP, часы работы, зона обслуживания), Service schema на каждой странице услуги, FAQ schema, AggregateRating. Подключение GA4 с отслеживанием конверсий (клики по телефону tel:, отправка формы, клик SMS). Опционально Meta Pixel. SSL проверка. Оптимизация скорости: аудит PageSpeed (цель 80+ mobile), code splitting, оптимизация bundle, проверка lazy-load всех изображений, минификация. UX-полировка: анимации появления секций (Intersection Observer, не тяжёлые), hover-эффекты на карточках и кнопках, smooth scroll, состояния загрузки/ошибок форм, 404-страница. Проверка всех страниц на мобиле/десктопе. Финальное тестирование форм, ссылок, аналитики. Подготовка к деплою (Vercel).",
+      "status": "done"
+    }
+  ],
+  "specSummary": "Многостраничный SEO-оптимизированный сайт для мобильного автодетейлинга в Лас-Вегасе на Next.js 14 с лендингом, 7 сервисными SEO-страницами, формой лидогенерации, галереей до/после, отзывами, картой зоны обслуживания и полной Schema-разметкой для локального SEO."
+}
